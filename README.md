@@ -38,9 +38,9 @@ Currently focused on:
 
 | Area | Tools |
 |---|---|
-| **Languages** | C, C++, Python, Java, LaTeX |
-| **ML / Data** | NumPy, Pandas, scikit-learn, Matplotlib, PyTorch |
-| **Environment** | Git, VS Code |
+| **Languages** | c, c++, python, java, LaTeX |
+| **ML / Data** | numPy, pandas, scikit-learn, matplotlib, pytorch |
+| **Environment** | git, linux, docker |
 
 ---
 
