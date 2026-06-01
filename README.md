@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Rocco Lo Russo</h1>
+  <h1>roccolr</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&vCenter=true&lines=computer_engineering" alt="computer_engineering" />
