@@ -1,74 +1,47 @@
-```text
-roccolr
-computer engineering · embedded systems · napoli, it
-```
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=238636&vCenter=true&width=560&lines=low-level+HW%2FSW+interaction%3Bsqueezing+every+cycle+out+of+the+hardware%3Bcurrently+into+RTOS%2C+digital+electronics+%26+CUDA%3Bopen+to+collaborations+and+internships" alt="low-level HW/SW interaction · squeezing every cycle out of the hardware">
+  ██████╗  ██████╗  ██████╗ ██████╗ ██████╗ ██╗     ██████╗
+  ██╔══██╗██╔═══██╗██╔════╝██╔════╝██╔═══██╗██║     ██╔══██╗
+  ██████╔╝██║   ██║██║     ██║     ██║   ██║██║     ██████╔╝
+  ██╔══██╗██║   ██║██║     ██║     ██║   ██║██║     ██╔══██╗
+  ██║  ██║╚██████╔╝╚██████╗╚██████╗╚██████╔╝███████╗██║  ██║
+  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
-### `$ whoami`
+  computer engineering  ·  embedded systems  ·  napoli, it
 
-MSc student in computer engineering, working on embedded systems.
-I focus on low-level hardware-software interaction, basically trying
-to squeeze as much efficiency as possible out of the hardware.
 
-### `$ cat now.c`
+──[ $ whoami ]──────────────────────────────────────────────────────
 
-```c
-/* what I'm into at the moment */
-const char *volatile now[] = {        /* may change without notice */
-    "supervised & unsupervised learning",
-    "digital electronics",
-    "C/CUDA GPU programming",
-    "real-time operating systems",
-};
-```
+  MSc student in computer engineering, working on embedded systems.
+  I focus on low-level hardware-software interaction, basically
+  trying to squeeze as much efficiency as possible out of the
+  hardware.
 
-### `$ ls ~/stack`
 
-<table>
-  <tr>
-    <td><code>languages</code></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=333333" alt="C">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
-    </td>
-  </tr>
-  <tr>
-    <td><code>ml / data</code></td>
-    <td>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-    </td>
-  </tr>
-  <tr>
-    <td><code>embedded</code></td>
-    <td>
-      <img src="https://img.shields.io/badge/FreeRTOS-2B3137?style=flat-square" alt="FreeRTOS">
-      <img src="https://img.shields.io/badge/ChibiOS-2B3137?style=flat-square" alt="ChibiOS">
-      <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF">
-      <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
-      <img src="https://img.shields.io/badge/VHDL-2B3137?style=flat-square" alt="VHDL">
-      <img src="https://img.shields.io/badge/Vivado-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="Vivado">
-    </td>
-  </tr>
-  <tr>
-    <td><code>environment</code></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F03C2E?style=flat-square&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=333333" alt="Linux">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-    </td>
-  </tr>
-</table>
+──[ $ cat now.c ]───────────────────────────────────────────────────
 
-### `$ ping roccolr`
+  /* what I'm into at the moment */
+  const char *volatile now[] = {     /* may change without notice */
+      "supervised & unsupervised learning",
+      "digital electronics",
+      "C/CUDA GPU programming",
+      "real-time operating systems",
+  };
 
-Napoli, Italy. Open to collaborations and internships.
 
-<a href="https://www.linkedin.com/in/rocco-lorusso"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
+──[ $ ls ~/stack ]──────────────────────────────────────────────────
+
+  languages   ▸ c · c++ · python · java · latex
+  ml / data   ▸ numpy · pandas · scikit-learn · matplotlib · pytorch
+  embedded    ▸ freertos · chibios · esp-idf · stm32 · vhdl · vivado
+  environment ▸ git · linux · docker
+
+
+──[ $ ping roccolr ]────────────────────────────────────────────────
+
+  Napoli, Italy. Open to collaborations and internships.
+
+  linkedin    ▸ linkedin.com/in/rocco-lorusso
+
+
+────────────────────────────────────────────────────────────────────
+                                                    EOF · exit 0
