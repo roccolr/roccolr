@@ -1,47 +1,23 @@
+# roccolr
+**MSc in Computer Engineering · Embedded Systems**  
+Napoli, Italy · [LinkedIn](https://linkedin.com/in/roccolorusso)
 
-  ██████╗  ██████╗  ██████╗ ██████╗ ██████╗ ██╗     ██████╗
-  ██╔══██╗██╔═══██╗██╔════╝██╔════╝██╔═══██╗██║     ██╔══██╗
-  ██████╔╝██║   ██║██║     ██║     ██║   ██║██║     ██████╔╝
-  ██╔══██╗██║   ██║██║     ██║     ██║   ██║██║     ██╔══██╗
-  ██║  ██║╚██████╔╝╚██████╗╚██████╗╚██████╔╝███████╗██║  ██║
-  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+I design and optimize low-level software and hardware-software interfaces, focusing on execution efficiency, deterministic behavior, and resource-constrained architectures.
 
-  computer engineering  ·  embedded systems  ·  napoli, it
+### Current Focus
+* **Real-Time Systems:** RTOS kernel primitives, scheduling, and concurrency.
+* **Hardware & RTL:** Digital electronics design and FPGA synthesis.
+* **Parallel Computing:** High-performance C/CUDA programming and hardware acceleration.
+* **Machine Learning:** Classical supervised/unsupervised models and edge inference.
 
+### Technical Stack
 
-──[ $ whoami ]──────────────────────────────────────────────────────
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | C, C++, Python, VHDL, Java, LaTeX |
+| **Embedded & HW** | STM32, ESP-IDF, FreeRTOS, ChibiOS, Vivado |
+| **Compute & Data** | CUDA, PyTorch, scikit-learn, NumPy, pandas |
+| **Environment** | Linux, Git, Docker |
 
-  MSc student in computer engineering, working on embedded systems.
-  I focus on low-level hardware-software interaction, basically
-  trying to squeeze as much efficiency as possible out of the
-  hardware.
-
-
-──[ $ cat now.c ]───────────────────────────────────────────────────
-
-  /* what I'm into at the moment */
-  const char *volatile now[] = {     /* may change without notice */
-      "supervised & unsupervised learning",
-      "digital electronics",
-      "C/CUDA GPU programming",
-      "real-time operating systems",
-  };
-
-
-──[ $ ls ~/stack ]──────────────────────────────────────────────────
-
-  languages   ▸ c · c++ · python · java · latex
-  ml / data   ▸ numpy · pandas · scikit-learn · matplotlib · pytorch
-  embedded    ▸ freertos · chibios · esp-idf · stm32 · vhdl · vivado
-  environment ▸ git · linux · docker
-
-
-──[ $ ping roccolr ]────────────────────────────────────────────────
-
-  Napoli, Italy. Open to collaborations and internships.
-
-  linkedin    ▸ linkedin.com/in/rocco-lorusso
-
-
-────────────────────────────────────────────────────────────────────
-                                                    EOF · exit 0
+---
+*Open to internships and R&D collaborations in embedded systems and high-performance computing.*
