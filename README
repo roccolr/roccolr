@@ -1,23 +1,24 @@
-# roccolr
-**MSc in Computer Engineering · Embedded Systems**  
-Napoli, Italy · [LinkedIn](https://linkedin.com/in/roccolorusso)
+roccolr
+MSc in Computer Engineering · Embedded Systems  
+Napoli, Italy · LinkedIn: https://linkedin.com/in/roccolorusso
 
-I design and optimize low-level software and hardware-software interfaces, focusing on execution efficiency, deterministic behavior, and resource-constrained architectures.
+I design and optimize low-level software and hardware-software interfaces, focusing on execution efficiency, 
+deterministic behavior, and resource-constrained architectures.
 
-### Current Focus
-* **Real-Time Systems:** RTOS kernel primitives, scheduling, and concurrency.
-* **Hardware & RTL:** Digital electronics design and FPGA synthesis.
-* **Parallel Computing:** High-performance C/CUDA programming and hardware acceleration.
-* **Machine Learning:** Classical supervised/unsupervised models and edge inference.
+--- Current Focus ---
+Real-Time Systems: RTOS kernel primitives, performance monitoring, static partitioning for IoT and automotive.
+Hardware & RTL:  Digital electronics design and FPGA/ASIC synthesis.
+HPC:  High-performance C/CUDA programming and hardware acceleration.
+AI/ML: Classical supervised/unsupervised models and edge inference.
 
-### Technical Stack
+--- Technical Stack ---
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | C, C++, Python, VHDL, Java, LaTeX |
-| **Embedded & HW** | STM32, ESP-IDF, FreeRTOS, ChibiOS, Vivado |
-| **Compute & Data** | CUDA, PyTorch, scikit-learn, NumPy, pandas |
-| **Environment** | Linux, Git, Docker |
+| Domain              | Technologies & Tools                        |
+|---------------------|---------------------------------------------|
+| Languages           | C, C++, Python, VHDL, Java, LaTeX           |
+| Embedded & HW       | STM32, ESP-IDF, FreeRTOS, ChibiOS, Vivado   |
+| Data                | CUDA, PyTorch, scikit-learn, NumPy, pandas  |
+| Environment         | Linux, Git, Docker, Xen                     |
 
 ---
-*Open to internships and R&D collaborations in embedded systems and high-performance computing.*
+Open to internships and R&D collaborations in embedded systems and high-performance computing.
